@@ -1,0 +1,14 @@
+{
+  "name": "misty-client",
+  "version": "1.0.0",
+  "description": "A library for communicating with a Misty robot.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/ws": "^6.0.1",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0",
+    "rxjs": "^6.4.0",
+    "ws": "^6.2.1"
+  }
+}
